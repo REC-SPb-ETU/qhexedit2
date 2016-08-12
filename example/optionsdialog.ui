@@ -232,9 +232,9 @@
     </spacer>
    </item>
    <item>
-    <widget class="QGroupBox" name="groupBox">
+    <widget class="QGroupBox" name="gbHexArea">
      <property name="title">
-      <string>Data Area</string>
+      <string>Hex Area</string>
      </property>
      <layout class="QHBoxLayout" name="horizontalLayout">
       <item>
